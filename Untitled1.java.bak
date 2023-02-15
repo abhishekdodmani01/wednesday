@@ -1,0 +1,4 @@
+class Employee
+{
+static string emp name="manjuu";
+static int string salary="20000"
